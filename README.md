@@ -73,12 +73,8 @@ Full-stack MERN e-commerce application with admin dashboard.
 \- bcrypt
 
 
-
-\## Installation
-
-
-
 \### Prerequisites
+Before you begin, ensure you have the following installed:
 
 \- Node.js (v14+)
 
