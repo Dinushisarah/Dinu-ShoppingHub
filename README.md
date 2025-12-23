@@ -6,7 +6,7 @@ Full-stack MERN e-commerce application with admin dashboard.
 
 
 
-\## Features
+\## *FEATURES*
 
 
 
@@ -83,6 +83,8 @@ Full-stack MERN e-commerce application with admin dashboard.
 \- Node.js (v14+)
 
 \- MongoDB
+
+\- Git
 
 
 
